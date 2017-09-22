@@ -2,17 +2,7 @@
 
 Update with Tortoise…"
 
-lqlqlqllqasdfa
-sdfadfasdf
-a
-df
-asd
-fconsole.writeline () ebi se
-maiakta ti da dfaqsdfasdfasdfasdfadsf
-awrtqweoi4tasdklgqasdkgfasdf 
-Change here...
-updating with new line here..
-tortoise 
-dots herre..
-Console.WriteLine("Ebi se!");
+Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+
 
