@@ -11,9 +11,14 @@ Console.ReadLine();
 
 
 Console.WriteLine("stiga gluposti")
+<<<<<<< HEAD
 Console.ReadLine("dobre")
+Console.WriteLine("ot edno do 10 kolko si gei")
+Console.ReadLine()
 
 for(i = 1; i<2; i++)
 {
 Console.WriteLine("Ti si gei, ti si gei, ti si gei")
 }
+
+
