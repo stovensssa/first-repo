@@ -11,3 +11,5 @@ Console.ReadLine();
 
 
 Console.WriteLine("stiga gluposti")
+Console.ReadLine();
+
