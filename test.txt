@@ -13,3 +13,7 @@ Console.ReadLine();
 Console.WriteLine("stiga gluposti")
 Console.RESDFLSDINE("dobre")
 
+for(i = 1; i<2; i++)
+{
+Console.WriteLine("Ti si gei, ti si gei, ti si gei")
+}
