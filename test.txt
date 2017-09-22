@@ -11,7 +11,7 @@ Console.ReadLine();
 
 
 Console.WriteLine("stiga gluposti")
-Console.RESDFLSDINE("dobre")
+Console.ReadLine("dobre")
 Console.WriteLine("ot edno do 10 kolko si gei")
 Console.ReadLine()
 
