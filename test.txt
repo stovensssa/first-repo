@@ -21,3 +21,13 @@ Console.WriteLine("Ti si gei, ti si gei, ti si gei")
 }
 
 
+if(You are gay =="true")
+{
+for (i=0; i<10;i++)
+{
+
+Console.WriteLine("ti si gei")
+}
+}
+
+
