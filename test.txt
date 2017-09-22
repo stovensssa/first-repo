@@ -30,4 +30,11 @@ Console.WriteLine("ti si gei")
 }
 }
 
+lqlqllq
+lqlqlq
+lqlqlq
+llq
+lqlqlqq
+
+
 
