@@ -41,3 +41,113 @@ iska da asdfoajsfkdjaskdf nuachasdfa sdfasdfa sdfasdfasdfasfdasdfasdfasdfasdfasd
 
 asfdasfdasfdas fasdfasdfa sdaf asdf
 
+Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")Console.WriteLine("Qko li e taka e brat!?").
+Console.ReadLine();
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
+Console.WriteLine("Ne laji brat, znam che obichash")
+
