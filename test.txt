@@ -37,6 +37,8 @@ lqlqlq
 lqlqlq
 llq
 lqlqlqq
+ASDadsASD
+s BErDA BRAT DA BRAT DA BRAT 
 iska da asdfoajsfkdjaskdf nuachasdfa sdfasdfa sdfasdfasdfasfdasdfasdfasdfasdfasdfa asdfa asdfasdfasdfaasdfasdfa
 
 asfdasfdasfdas fasdfasdfa sdaf asdf
@@ -150,4 +152,5 @@ Console.ReadLine();
 Console.WriteLine("duhash li za bez pari!?")
 Console.ReadLine();
 Console.WriteLine("Ne laji brat, znam che obichash")
+
 
