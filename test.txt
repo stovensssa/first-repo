@@ -11,6 +11,7 @@ Console.ReadLine();
 
 // this need to be fixed 
 // this is fixed now 
+// are you sure ?
 Console.WriteLine("stiga gluposti")
 Console.ReadLine("dobre")
 Console.WriteLine("ot edno do 10 kolko si gei")
