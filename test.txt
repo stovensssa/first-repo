@@ -9,3 +9,5 @@ Console.ReadLine();
 Console.WriteLine("Ne laji brat, znam che obichash")
 Console.ReadLine();
 
+
+Console.WriteLine("stiga gluposti")
