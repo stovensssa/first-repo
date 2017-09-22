@@ -10,6 +10,8 @@ Console.WriteLine("Ne laji brat, znam che obichash")
 Console.ReadLine();
 
 // this need to be fixed 
+// this is fixed now 
+// are you sure ?
 Console.WriteLine("stiga gluposti")
 Console.ReadLine("dobre")
 Console.WriteLine("ot edno do 10 kolko si gei")
@@ -37,5 +39,8 @@ llq
 lqlqlqq
 ASDadsASD
 s BErDA BRAT DA BRAT DA BRAT 
+iska da asdfoajsfkdjaskdf nuachasdfa sdfasdfa sdfasdfasdfasfdasdfasdfasdfasdfasdfa asdfa asdfasdfasdfaasdfasdfa
+
+asfdasfdasfdas fasdfasdfa sdaf asdf
 
 
