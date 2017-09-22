@@ -4,5 +4,6 @@ Update with Tortoise…"
 
 Console.WriteLine("Qko li e taka e brat!?").
 Console.ReadLine();
-
+Console.WriteLine("duhash li za bez pari!?")
+Console.ReadLine();
 
